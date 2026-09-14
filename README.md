@@ -1,7 +1,9 @@
 # Limpieza de datos — Cafe Sales (Dirty Data for Cleaning Training)
 
-Actividad individual de la materia **Análisis y visualización de la información** (Universidad de Guadalajara, CUCEI).
+**Análisis y visualización de la información** (Universidad de Guadalajara, CUCEI).
 **Autor:** Jorge Isaac Quintero Carreón — 219515362
+**Maestra** NAYELI ARELI PEREZ PADILLA
+**Actividad 4** Práctica de limpieza de datos
 
 # Objetivo
 
